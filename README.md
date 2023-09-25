@@ -23,7 +23,7 @@
 <br>
 
 <p align="center">
-  <a href="https://discord.com/users/581633841584668694" target="_blank"><img alt="Discord" src="https://img.shields.io/static/v1?label=@&message=nekolynn&style=for-the-badge&logo=appveyor&color=7289DA&logo=Discord" /></a> <br>
+  <a href="https://discord.com/users/581633841584668694" target="_blank"><img alt="Discord" src="https://img.shields.io/static/v1?label=@&message=Moriarty&style=for-the-badge&logo=appveyor&color=7289DA&logo=Discord" /></a> <br>
 <p/>
 
 <details>
