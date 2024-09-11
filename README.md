@@ -31,8 +31,6 @@
   <br>
   
   <div align="center">
-    <img align="top" alt="Fued's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fuedgabriel&count_private=true&show_icons=true&theme=material-palenight" /><br><br>
-    <img align="top" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuedgabriel&langs_count=8&theme=material-palenight" /><br><br>
     <span>Current: </br></span>
     <img align="top" alt="" src="https://komarev.com/ghpvc/?username=fuedgabriel&color=brightgreen&style=flat-square" />
     </br>
