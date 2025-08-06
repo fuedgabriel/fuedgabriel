@@ -3,12 +3,6 @@
   <span>I'm Fued!</span>
 </h2>
 
-<section>
-  <h3>🌟 About Me</h3>
-  <p>
-    I'm 21 years old, studying electronic computer engineering and I like playing around with a variety of things and programs that I find interesting.
-  </p>
-</section>
 
 <br>
 
